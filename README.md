@@ -1,7 +1,7 @@
 # DeepLearning
 
-Deep learning work! Currently includes
+Deep learning work! Currently includes these models using MNIST.
 
- - Easy-to-use multi-layer perceptron implemented in Tensorflow
- - Similar ConvNet also in Tensorflow
- - Currently working on an autoencoder also for use in MNIST.
+ - Multi-layer perceptron implemented in Tensorflow
+ - ConvNet also in Tensorflow
+ - An autoencoder built in to both of the above models
